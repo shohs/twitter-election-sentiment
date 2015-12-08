@@ -11,10 +11,10 @@ from tweepy.streaming import StreamListener
 from tweepy import OAuthHandler
 from tweepy import Stream
 
-consumer_key = 'pz8APe0EtRV5lOMYlFO3aYcqg'
-consumer_secret = '9k7iYL513ehCss9OzrBftdEtwA52ejbWwuLdUjWcq9SzBFYvJC'
-access_token = '598819937-oT83AwuIaz3MKmHh4rsVTHVlybB1RV1t2Uuci5n8'
-access_token_secret = 'w2povbjUR5ku1GJenHRgxnaFLYXaexuxkijjjeLkPr8sR'
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_token_secret = ''
 
 # This is global so it can be access in the ctrl-c interrupt
 tweet_writer = None
